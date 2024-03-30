@@ -20,6 +20,8 @@ OCR_with_PDFKit_in_Terminal /path/of/a/pdf/to/read_and_write.pdf
 
 OCR_with_PDFKit_in_Terminal /path/of/a/pdf/to/read.pdf /path/of/a/pdf/to/write.pdf
 
+![Usage](https://github.com/mson0129/OCR-with-PDFKit-in-Terminal/assets/8183993/1adbe690-34ee-4bb2-8dbe-13b636feb7c5)
+
 # 참조 (References)
 
 * [PDFKit](https://developer.apple.com/documentation/pdfkit)
