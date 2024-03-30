@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		73F968A02BB876ED00FC9083 /* OCR with PDFKit in Terminal */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "OCR with PDFKit in Terminal"; sourceTree = BUILT_PRODUCTS_DIR; };
 		73F968A32BB876ED00FC9083 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		73F968AA2BB880D500FC9083 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		73F968972BB876ED00FC9083 = {
 			isa = PBXGroup;
 			children = (
+				73F968AA2BB880D500FC9083 /* README.md */,
 				73F968A22BB876ED00FC9083 /* OCR with PDFKit in Terminal */,
 				73F968A12BB876ED00FC9083 /* Products */,
 			);
